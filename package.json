@@ -1,0 +1,21 @@
+{
+  "name": "notes-making-app",
+  "version": "1.0.0",
+  "description": "Note-vault is a full-stack note-making app built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to create, update, and delete notes in real-time. All notes are stored in a database and reflect instantly on the UI. This project is ideal for practicing CRUD operations and full-stack integration.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneha236225/note-vault.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sneha236225/note-vault/issues"
+  },
+  "homepage": "https://github.com/sneha236225/note-vault#readme"
+}
