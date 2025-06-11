@@ -1,7 +1,7 @@
 import toast from "react-hot-toast"
 import { useState, useEffect } from 'react'
 import Navbar from '../components/Navbar';
-import RateLimitedUI from '../components/RateLimitedUi';
+import RateLimitedUI from '../components/RateLimitedUI';
 import NoteCard from "../components/NoteCard";
 import api from "../lib/axios";
 import NoteNotFound from "../components/NoteNotFound";
