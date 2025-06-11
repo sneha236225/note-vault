@@ -1,2 +1,4 @@
 # note-vault
-A full-stack note-making web app built with MERN (MongoDB, Express, React, Node.js). Users can create, edit, and delete notes with real-time backend updates.
+NoteHub is a full-stack note-making app built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to create, update, and delete notes in real-time. All notes are stored in a database and reflect instantly on the UI. This project is ideal for practicing CRUD operations and full-stack integration.
+
+🚫 Authentication is not included in this version.
